@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304343613011",
+    "project_id": "push-notification-235c1",
+    "storage_bucket": "push-notification-235c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304343613011:android:3215a5091f79bf234850a6",
+        "android_client_info": {
+          "package_name": "com.rowel.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64G362bA_m0nCr-TEbl7YI2AkCcjFc8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
